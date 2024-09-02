@@ -1,6 +1,9 @@
 # GenAI-Project-Email-Generator-for-Job-url
 # Cold Email Generator
 
+![image](https://github.com/user-attachments/assets/d685f98f-5f95-41e8-8143-a35b686d7c7f)
+
+
 ## Overview
 
 This project is a cold email generator that takes a job URL as input and generates a personalized email content by matching suitable portfolios from a database. The project leverages Groq for faster inference and uses various tools and libraries to extract job details, store embeddings, and generate emails.
